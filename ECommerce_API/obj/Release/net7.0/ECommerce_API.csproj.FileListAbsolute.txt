@@ -1,0 +1,94 @@
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\appsettings.Development.json
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\appsettings.json
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\ECommerce_API.exe
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\ECommerce_API.deps.json
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\ECommerce_API.runtimeconfig.json
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\ECommerce_API.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\ECommerce_API.pdb
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Microsoft.OpenApi.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\System.Data.SqlClient.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\E-Commerce\ECommerce_API\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.csproj.AssemblyReference.cache
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.AssemblyInfoInputs.cache
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.AssemblyInfo.cs
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.csproj.CoreCompileInputs.cache
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.MvcApplicationPartsAssemblyInfo.cs
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.MvcApplicationPartsAssemblyInfo.cache
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.ECommerce_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.build.ECommerce_API.props
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce_API.props
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.ECommerce_API.props
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\staticwebassets.pack.json
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\staticwebassets.build.json
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\staticwebassets.development.json
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\scopedcss\bundle\ECommerce_API.styles.css
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.csproj.CopyComplete
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.dll
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\refint\ECommerce_API.dll
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.pdb
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ECommerce_API.genruntimeconfig.cache
+D:\E-Commerce\ECommerce_API\obj\Release\net7.0\ref\ECommerce_API.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\appsettings.Development.json
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\appsettings.json
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\ECommerce_API.exe
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\ECommerce_API.deps.json
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\ECommerce_API.runtimeconfig.json
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\ECommerce_API.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\ECommerce_API.pdb
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Microsoft.OpenApi.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\System.Data.SqlClient.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\runtimes\win-arm64\native\sni.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\runtimes\win-x64\native\sni.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\runtimes\win-x86\native\sni.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\M.E Project app\ECommerce_API\bin\Release\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.csproj.AssemblyReference.cache
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.AssemblyInfoInputs.cache
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.AssemblyInfo.cs
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.csproj.CoreCompileInputs.cache
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.MvcApplicationPartsAssemblyInfo.cs
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.MvcApplicationPartsAssemblyInfo.cache
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.ECommerce_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.build.ECommerce_API.props
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce_API.props
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.ECommerce_API.props
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\staticwebassets.pack.json
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\staticwebassets.build.json
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\staticwebassets.development.json
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\scopedcss\bundle\ECommerce_API.styles.css
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.csproj.CopyComplete
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.dll
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\refint\ECommerce_API.dll
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.pdb
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ECommerce_API.genruntimeconfig.cache
+D:\M.E Project app\ECommerce_API\obj\Release\net7.0\ref\ECommerce_API.dll

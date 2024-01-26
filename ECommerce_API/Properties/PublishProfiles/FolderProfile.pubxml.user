@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\E-Commerce Api</_PublishTargetUrl>
+    <History>True|2023-08-11T10:53:46.3833170Z;True|2023-08-11T16:21:39.1976752+05:30;False|2023-08-11T16:21:28.8131010+05:30;True|2023-08-11T16:20:28.9049958+05:30;True|2023-08-11T16:17:48.4460145+05:30;True|2023-08-11T16:16:36.3137069+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DB">
+      <Value>Data Source=VALLARASU%3bInitial Catalog=ECommerce%3bIntegrated Security=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
